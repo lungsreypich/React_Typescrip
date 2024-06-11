@@ -1,0 +1,16 @@
+.app{
+    display: grid;
+    width: 100%;
+    height: 100%;
+}
+.template{
+    place-self: center;
+    width: 80vh;
+   height: 50vh;
+//    padding: ;
+}
+.content-score{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

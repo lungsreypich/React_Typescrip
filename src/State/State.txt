@@ -1,0 +1,2 @@
+Functoin Component​​ ប្រើជាមួយ Hop
+=>មានន័យថា​ Return data ចេញមកក្រៅ
